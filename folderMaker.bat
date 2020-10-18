@@ -1,3 +1,4 @@
+#!/bin/sh
 :: Basic file for creating folder structure inside Unity's Assets folder
 
 FOR %%a in ("%cd%") do set "CurDir=%%~na"
